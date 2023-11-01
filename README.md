@@ -1,3 +1,33 @@
+# tech-test
+
+This is for Technical Test, Im using ReactJS Typescript + Vite
+
+## How to Run this APP in Local
+
+First you must clone my project
+
+```
+git clone https://github.com/mhmmdvg/tech-test.git
+```
+
+Open the project
+
+```
+cd techn-test
+```
+
+Install node_modules
+
+```
+npm install or yarn
+```
+
+Run the project
+
+```
+npm run dev or yarn dev
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
