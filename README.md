@@ -2,6 +2,19 @@
 
 This is for Technical Test, Im using ReactJS Typescript + Vite
 
+- Create Ticket on Overview
+- Login
+   admin:
+   muhammadaskar
+   askar12345
+  
+   guest:
+   mhmmdvg
+   vikri12345
+- Sort in Ticket page
+- Pagination
+- Darkmode
+
 ## How to Run this APP in Local
 
 First you must clone my project
