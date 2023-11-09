@@ -20,13 +20,13 @@ This is for Technical Test, Im using ReactJS Typescript + Vite
 First you must clone my project
 
 ```
-git clone https://github.com/mhmmdvg/tech-test.git
+git clone https://github.com/mhmmdvg/techn-train.git
 ```
 
 Open the project
 
 ```
-cd techn-test
+cd techn-train
 ```
 
 Install node_modules
